@@ -2,7 +2,7 @@
 
 ## Description
 
-This mailing list microservice is a simple service that performs basic CRUD operations. This was a learning experience to learn more about Go and specifically the differences betwen JSON and gRPC APIs.
+This mailing list microservice is a simple service that performs basic CRUD operations. This was a learning experience to learn more about Go and specifically the differences betwen JSON and gRPC APIs using Protcol Buffers.
 
 ## Setup
 
